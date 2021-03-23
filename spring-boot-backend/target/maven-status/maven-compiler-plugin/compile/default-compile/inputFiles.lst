@@ -1,0 +1,12 @@
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/repository/UserRepository.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/model/AuthenticationRequest.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/config/CustomUserDetailsService.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/config/JwtUtil.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/config/JwtAuthenticationEntryPoint.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/config/SpringSecurityConfig.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/config/CustomJwtAuthenticationFilter.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/JwtWithRolesApplication.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/entity/User.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/model/AuthenticationResponse.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/controller/ResourceController.java
+/home/guven/Desktop/Git için jwt/spring-boot-backend/src/main/java/com/jwt/jwtwithroles/controller/AuthenticationController.java
