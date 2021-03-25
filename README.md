@@ -1,2 +1,2 @@
-# jwt-spring-boot-react
+# jwt-spring-boot-security-react
 How to use jwt tokens with react and spring boot security.
