@@ -8,8 +8,8 @@ run sql scripts in starter files folder
 step 2: run spring boot app
 open a terminal
 ```
-git clone https://github.com/guventuncay/jwt-spring-boot-securty-react
-cd jwt-spring-boot-securty-react-master/
+git clone https://github.com/guventuncay/jwt-spring-boot-security-react
+cd jwt-spring-boot-security-react-master/
 ./mvnw package
 java -jar target/*.jar
 ```
