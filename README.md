@@ -3,7 +3,7 @@ How to use jwt tokens with react and spring boot security.
 
 # Running locally
 step 1: prepare database
-run sql scripts in starter files folder
+configure application.properties file for your db
 
 step 2: run spring boot app
 open a terminal
