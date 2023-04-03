@@ -15,11 +15,11 @@ java -jar target/*.jar
 ```
 You can access spring boot backend here: http://localhost:8080/
 
-step 3: run angular app
+step 3: run react app
 open a new terminal
 ```
 cd cd ../react-frontend
 npm install
 npm start
 ```
-You can access angular frontend app here: http://localhost:3000/
+You can access react frontend app here: http://localhost:3000/
